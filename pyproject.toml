@@ -42,7 +42,7 @@ opencv-python = { version = "^4.5", optional = true }
 
 [tool.poetry.dev-dependencies]
 darglint = "^1.5.8"
-isort = "^5.7.0"
+isort = "^5.13.2"
 pyupgrade = "^2.7.4"
 black = "^21.5b0"
 mypy = "^0.812"
